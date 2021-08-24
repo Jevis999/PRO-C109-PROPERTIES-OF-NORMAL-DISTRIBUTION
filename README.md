@@ -1,1 +1,1 @@
-# PRO-C109-PROPERTIES-OF-NORMAL-DISTRIBUTION
+# Properties_of_Normal_Distrubution__PRO-C109
